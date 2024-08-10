@@ -1,19 +1,18 @@
 ### Task Summary
 
-   **Web Application Development:**
-    - Using the Angelcam Developer Portal, I built a web application that met these requirements:
+**Web Application Development:**
+- Using the Angelcam Developer Portal, I built a web application that met these requirements:
     
-    - **Login Functionality:**
-      - Implemented login using the provided Personal Access Token.
-      - Developed a [Login Page](http://localhost:3000/login/) as per the provided screenshots.
+- **Login Functionality:**
+- Implemented login using the provided Personal Access Token.
+- Developed a [Login Page](http://localhost:3000/login/).
         
-    - **Camera Listing:**
-      - Listed shared cameras and displayed them on a [Camera List Page](http://localhost:3000/cameras/).
+- **Camera Listing:**
+- Listed shared cameras and displayed them on a [Camera List Page](http://localhost:3000/cameras/).
         
-    - **Live Video Streaming:**
-      - Showed live video from the selected camera.
-      - Created pages for [Sample/112860](http://localhost:3000/camera/112860/) and [Street/112859](http://localhost:3000/camera/112859/).
----
+- **Live Video Streaming:**
+- Showed live video from the selected camera.
+- [Sample/112860](http://localhost:3000/camera/112860/) and [Street/112859](http://localhost:3000/camera/112859/).
 
 ### 1. **Project Structure**
 The project structure is organized as follows:
