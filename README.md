@@ -12,8 +12,7 @@
         
     - **Live Video Streaming:**
       - Showed live video from the selected camera.
-      - Created pages for [Sample/112860](http://localhost:3000/camera/112860/) and [Street/112859](http://localhost:3000/camera/112859/), with live video streaming as per the provided screenshots.
-
+      - Created pages for [Sample/112860](http://localhost:3000/camera/112860/) and [Street/112859](http://localhost:3000/camera/112859/).
 ---
 
 ### 1. **Project Structure**
